@@ -28,6 +28,7 @@ public class GroundTransportation extends Transport
         sb.append(String.format("%15s: %s\n", "Matricula", getLicensePlate()));
         return sb.toString();
     }
+    
 }
 
 
